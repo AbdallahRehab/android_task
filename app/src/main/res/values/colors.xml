@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="btcolor">#fff</color>
+    <color name="bttcolor">#6644cc</color>
+    <color name="txcolor">#f8f8f8</color>
+    <color name="btupcolor">#00ba40</color>
+    <color name="upcardcolor">#665eff</color>
+</resources>
